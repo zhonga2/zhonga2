@@ -1,6 +1,7 @@
 ## Hi there, I'm Anthony Zhong 👋
 
-<!--
+---
+
 🎓 **B.A. Quantitative Economics | Minor: Information & Computer Sciences**  
 University of Hawai‘i at Mānoa  
 
