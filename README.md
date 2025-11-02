@@ -1,41 +1,41 @@
-## Hi there, I'm Anthony Zhong 👋
-
----
+# 👋 Hi, I'm Anthony Zhong  
 
 🎓 **B.A. Quantitative Economics | Minor: Information & Computer Sciences**  
 University of Hawai‘i at Mānoa  
+
+📊 I enjoy exploring data, uncovering patterns, and applying analytics to improve decision-making, efficiency, and maintainence.  
 
 ---
 
 ### 💡 Quick Facts
 - 🌏 Based in Honolulu, Hawai‘i  
-- 🔍 Interested in data analytics, business strategy, and economic policy  
+- 🔍 Interested in data analytics, econometrics, and applied machine learning  
 - 💼 Experience includes:
-  - NSF Climate Data Internship (React, Leaflet, R)
-  - IT Help Desk Support across 10 UH campuses
-  - Indo-Pacific Command policy internship  
-- 🎯 Goal: Build a career as a **data-driven analyst** who connects economics, technology, and social impact.
+  - Data Infrastructure Intern (NSF Hawai‘i Climate Data Portal) — React, Leaflet, R  
+  - IT Support Assistant (University of Hawai‘i) — 50+ weekly tickets resolved  
+  - Policy & Strategic Analysis Intern (U.S. Indo-Pacific Command) — research security synthesis  
 
 ---
 
-### 📂 Current Personal Projects
-- **Economic Research Project:** Modeling the impact of oil prices, tourism, and federal spending on Hawai‘i’s GDP (R, FRED, UHERO data).  
-- **UN SDG Analytics (R):** Data cleaning, visualization, and statistical modeling focused on SDG 8 (Decent Work & Economic Growth).  
-- **AQI Dashboard:** Comparing air quality trends in Massachusetts and Minnesota (Excel, R). 
+### 📂 Projects
+- **Economic Research Project:** Modeled Hawai‘i GDP using energy prices, tourism, and federal spending data (R, FRED, UHERO).  
+- **UN SDG Analytics in R:** Cleaned and visualized global development indicators; practiced regression and ggplot2 visualization.  
+- **Air Quality Dashboard:** Compared AQI trends in Massachusetts vs. Minnesota (Excel, R).  
 
 ---
 
 ### 🧰 Skills & Tools
-**Languages / Tools:** R, Python (pandas, NumPy, matplotlib), Excel (Solver, PivotTables), React, TypeScript, MySQL  
-**Analytics:** Regression, Time Series, Data Wrangling, Visualization  
-**Soft Skills:** Problem-solving, Research, Writing for technical & policy audiences  
+**Programming:** R, Python (pandas, NumPy, matplotlib), React, MySQL  
+**Analytics:** Regression, Forecasting, Linear Programming, Data Visualization  
+**Software:** Excel (Solver, PivotTables), RStudio, VS Code, GitHub  
+**Core Strengths:** Analytical reasoning, troubleshooting, quantitative thinking  
 
 ---
 
 ### 📚 Currently Learning
-- PowerBI and Tableau   
-- SQL database design refresher  
-- Econometric modeling in R
+- Intermediate to Advanced Excel and R for analytics and reporting
+- SQL database optimization and automation  
+
 
 ---
 
@@ -43,4 +43,3 @@ University of Hawai‘i at Mānoa
 📧 [Email](zhonga@hawaii.edu)  
 🌐 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
 📁 [Portfolio Projects](https://github.com/yourusername?tab=repositories)
--->
