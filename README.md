@@ -9,7 +9,7 @@ University of Hawai‘i at Mānoa
 
 ### 💡 Quick Facts
 - 🌏 Based in Honolulu, Hawai‘i  
-- 🔍 Interested in data analytics, econometrics, and applied machine learning  
+- 🔍 Interested in data analytics, econometrics, and applied data science   
 - 💼 Experience includes:
   - Data Infrastructure Intern (NSF Hawai‘i Climate Data Portal) — React, Leaflet, R  
   - IT Support Assistant (University of Hawai‘i) — 50+ weekly tickets resolved  
