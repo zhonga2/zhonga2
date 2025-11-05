@@ -41,5 +41,4 @@ University of Hawai‘i at Mānoa
 
 ### 🤝 Connect
 📧 [Email](zhonga@hawaii.edu)  
-🌐 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-📁 [Portfolio Projects](https://github.com/yourusername?tab=repositories)
+🌐 [LinkedIn](www.linkedin.com/in/anthony-z-a503a2383)  
